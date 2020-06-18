@@ -1,0 +1,61 @@
+body
+{
+	background-image: url(images/grunge.jpg);
+	/*background-position: top right;
+	background-color: #bdc3c7;*/
+}
+
+p
+{
+
+	
+	font-family: arponasans, sans-serif;
+	font-weight: 450;
+	font-style: normal;
+	text-align: justify;
+	background-color: white;
+	color: black;
+	opacity: 0.6;
+	box-shadow: 6px 6px 6px black 
+}
+
+.universités
+{
+color: green;
+}
+
+
+h2
+{
+	text-decoration: underline;
+	color : blue;
+	font-family: arponasans, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+
+}
+h1
+{
+	font-family: arponasans, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	text-align: center;
+}
+
+
+.imageOxford
+{
+	float: right;
+}
+
+.imageMIT
+{
+	float: right;
+}
+
+
+
+.dessous 
+{
+	clear : right;
+}
